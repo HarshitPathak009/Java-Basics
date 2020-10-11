@@ -10,7 +10,7 @@ class add extends Maths
 {
   public static void main(String ar[])throws IOException 
  {
-   int a,b;
+   i//nt a,b;
    BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
   Maths obj = new Maths();	
   System.out.println("Enter first value");
